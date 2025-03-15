@@ -5,3 +5,4 @@ export interface getOTAChannel {
 export interface getOTAChannelResponse {
     names: string[];
 }
+
